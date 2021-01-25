@@ -31,6 +31,8 @@ public class Car
            "Plate: " + this.plate;
   }
 
+  // This is a random comment
+
   public static void main(String [] argv)
   {
     Car temp = new Car(19, "Honda", "123abc");
