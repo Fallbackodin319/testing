@@ -1,3 +1,4 @@
+// this added import statements
 import java.util.*;
 import java.io.*;
 
@@ -32,7 +33,7 @@ public class Car
   }
 
   // This is a random comment
-
+  // This is a main method
   public static void main(String [] argv)
   {
     Car temp = new Car(19, "Honda", "123abc");
