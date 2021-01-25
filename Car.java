@@ -19,7 +19,10 @@ public class Car
     return 19;
   }
 
-  public
+  public static char retA()
+  {
+    return 'A';
+  }
 
   public String toString()
   {
