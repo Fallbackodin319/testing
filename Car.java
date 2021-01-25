@@ -14,6 +14,13 @@ public class Car
     this.plate = plate;
   }
 
+  public static int ret19()
+  {
+    return 19;
+  }
+
+  public
+
   public String toString()
   {
     return "Name: " + this.name + " " +
@@ -25,5 +32,6 @@ public class Car
   {
     Car temp = new Car(19, "Honda", "123abc");
     System.out.println(temp);
+    System.out.println("End of list" + ret19);
   }
 }
